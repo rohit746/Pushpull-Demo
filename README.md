@@ -1,6 +1,6 @@
 # PushPull++ SDL2 Demo
 
-This is a compact C++17/SDL2 implementation of Lipp, Wonka, and Mueller's **PushPull++** paper.
+This is a compact C++17/SDL2 implementation of Lipp, Wonka, and Mueller's **PushPull++** paper. [Link](https://peterwonka.net/Publications/pdfs/2014.SG.Lipp.PushPull.pdf)
 
 ![Face tool screenshot](assets/screenshots/face-tool.png)
 
