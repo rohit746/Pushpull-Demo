@@ -1,0 +1,13 @@
+# Build outputs
+build/
+pushpull_pp
+*.o
+*.dSYM/
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary captures generated while preparing README images
+assets/screenshots/*.bmp
